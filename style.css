@@ -1,0 +1,13 @@
+*{
+background-color: aquamarine;
+}
+
+.img{
+    height: 50vh;
+    width:100vh;
+    position: relative;
+    left: 75vh;
+}
+h1{
+    font-size: 20vh;
+}
